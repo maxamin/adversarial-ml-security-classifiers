@@ -1,0 +1,7 @@
+[book]
+title = "Adversarial ML Against Security Classifiers"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/adversarial-ml-security-classifiers"
